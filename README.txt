@@ -3,7 +3,7 @@
 Contributors: mandiwise
 Tags: widget, flickr, photos
 Requires at least: 3.5
-Tested up to: 3.8.1
+Tested up to: 3.9.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ A basic Flickr widget that allows you to display a specified number of your most
 
 The Recently on Flickr Widget is a light-weight plugin that allows you to display your most recent Flickr photos in your sidebar, either as small or large square thumbnails.
 
-It has just enough CSS to show the photos as a basic grid in your sidebar, so you can easily enhance their display by adding your own styls on top of that.
+It has just enough CSS to show the photos as a basic grid in your sidebar, so you can easily enhance their display by adding your own styles on top of that.
 
 The plugin uses a Flickr API key instead of RSS to fetch your photos, so you won't be limited to displaying only 20 photos at once.
 

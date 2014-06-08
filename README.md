@@ -4,7 +4,7 @@
 
 The Recently on Flickr Widget is a light-weight plugin that allows you to display your most recent Flickr photos in your sidebar, either as small or large square thumbnails.
 
-It has just enough CSS to show the photos as a basic grid in your sidebar, so you can easily enhance their display by adding your own styls on top of that.
+It has just enough CSS to show the photos as a basic grid in your sidebar, so you can easily enhance their display by adding your own styles on top of that.
 
 The plugin uses a Flickr API key instead of RSS to fetch your photos, so you won't be limited to displaying only 20 photos at once.
 
