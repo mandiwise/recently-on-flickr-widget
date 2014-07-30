@@ -49,6 +49,9 @@ Yes, but no translations are available quite yet.
 
 ## Changelog
 
+### 1.0.1
+* Update phpFlickr library to v3.1.1
+
 ### 1.0
 * Initial release.
 

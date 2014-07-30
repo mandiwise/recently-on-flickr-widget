@@ -3,7 +3,7 @@
 Plugin Name: Recently on Flickr Widget
 Plugin URI: http://mandiwise.com/project/recently-on-flickr-widget/
 Description: A basic Flickr widget that allows you to display a specified number of your most recent Flickr photos in your sidebar.
-Version: 1.0.0
+Version: 1.0.1
 Author: Mandi Wise
 Author URI: http://mandiwise.com/
 Author Email: hello@mandiwise.com
